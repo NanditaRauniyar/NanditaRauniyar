@@ -1,9 +1,10 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm developer,QA/QC enthusiast of learning new skills. \
+
+💡 &nbsp; I'm a Good learner and enthusiast of learning new skills. \
 💻 &nbsp;I'm currently pursuing BSc. CSIT from TU affiliated college Madan Bhandari Memorial College.\
 🌱 &nbsp;I'm on track for learning more about QA/QC.\
-✍️ &nbsp;In my free time, I listen music,read novels.\
+✍️ &nbsp;In my free time, I like to read novels, listen music.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me by clicking gmail handle I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume]() for more details about work experience.
