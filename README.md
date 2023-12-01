@@ -1,7 +1,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm developer,QA/QC enthusiast of learning new skills. \
-💻 &nbsp;I'm currently pursuing BSc. CSIT from TU affiliated college MAdan Bhandari Memorial College.\
+💻 &nbsp;I'm currently pursuing BSc. CSIT from TU affiliated college Madan Bhandari Memorial College.\
 🌱 &nbsp;I'm on track for learning more about QA/QC.\
 ✍️ &nbsp;In my free time, I listen music,read novels.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
